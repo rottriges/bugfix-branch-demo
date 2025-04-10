@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "bugfix": "node scripts/create-bugfix-branch.js"
+    "bugfix": "node scripts/create-bugfix-branch.js", 
+    "feature": "node scripts/create-new-feature-branch.js"
   },
   "keywords": [],
   "author": "",
